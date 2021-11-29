@@ -18,5 +18,16 @@
     <ClCompile Include="CPP_H_HW4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CalculationError.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="InsertSorted.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CalculationError.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

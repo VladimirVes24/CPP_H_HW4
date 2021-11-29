@@ -139,7 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CalculationError.cpp" />
     <ClCompile Include="CPP_H_HW4.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CalculationError.h" />
+    <ClInclude Include="InsertSorted.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
